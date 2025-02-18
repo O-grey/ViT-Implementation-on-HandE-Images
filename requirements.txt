@@ -1,0 +1,10 @@
+tensorflow
+scikit-learn
+keras
+numpy
+pandas
+tensorboard
+streamlit
+matplotlib
+patchify
+opencv-python-headless
